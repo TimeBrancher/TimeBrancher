@@ -1,16 +1,12 @@
-## Hi there 👋
+## Bienvenidos
 
-<!--
-**TimeBrancher/TimeBrancher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Sobre mí
+* Soy un estudiante de informatica, en 3er año de carrera con interes en sistemas operativos con inclinaciones al desarollo de parches de seguridad
+* Estoy con miras de desarollar habilidades mas avanzadas en las bases que ya poseo, por lo que dia a dia iré aprendiendo diversas cosas que me lleven a mi objetivo de volverme un desarollador de SO (intentaré mantener este readme.md al dia), y mas alla de el plan principal siempre estoy dispuesto y complacido de aprender cosas nuevas.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Habilidades
+* Logica y algoritmos
+* Organizacion y Arquitectura de computadoras
+* C
+* Bash
+* Python
